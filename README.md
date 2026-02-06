@@ -1,44 +1,67 @@
-# Portfólio – Desenvolvimento de Sistemas
+# Portfólio – Técnico em Desenvolvimento de Sistemas (SENAC)
 
-## André Vitor
-Curso Técnico em Desenvolvimento de Sistemas – SENAC  
-Estudante iniciante em programação, com foco em lógica, Java e MySQL.
+## 👤 Sobre mim
+Sou estudante do **Curso Técnico em Desenvolvimento de Sistemas – SENAC**, atualmente em formação, com foco em **lógica de programação**, **algoritmos** e **fundamentos de desenvolvimento de software**.
 
----
-
-## Sobre mim
-Sou estudante do curso Técnico em Desenvolvimento de Sistemas pelo SENAC.
-Atualmente estudo lógica de programação, algoritmos, Java (iniciante) e
-banco de dados MySQL.
+Este repositório tem como objetivo apresentar minha **evolução acadêmica**, exercícios práticos e projetos desenvolvidos ao longo do curso.
 
 ---
 
-## Projetos desenvolvidos
-
-### Cardápio Inteligente
-Programa que sugere refeições com base nas respostas do usuário
-(se está de dieta e se é vegetariano), utilizando estruturas condicionais.
-
-Tecnologias:
-- Portugol Studio
-- Estruturas se / senão se
+## 📚 Formação
+- **Curso:** Técnico em Desenvolvimento de Sistemas  
+- **Instituição:** SENAC  
+- **Duração atual:** 2 meses (em andamento)
 
 ---
 
-### Sistema de Desconto para Loja
-Sistema que calcula descontos com base no valor da compra, armazena dados
-dos clientes e gera um relatório diário de clientes que receberam desconto.
-
-Tecnologias:
-- Portugol Studio
-- Estruturas de repetição (para)
-- Condições
-- Vetores
-- Cálculo de porcentagem
+## 🛠️ Tecnologias e Ferramentas
+- **Portugol Studio** – lógica de programação e algoritmos  
+- **PDF / Documentação técnica**  
+- **Java** *(próxima unidade curricular)*  
+- **MySQL (Workbench)** *(próximas etapas do curso)*  
 
 ---
 
-## Próximos aprendizados
-- Java
-- MySQL (Workbench)
-- Integração entre Java e banco de dados
+## 📌 Projetos Acadêmicos
+
+### 🔹 Projeto Integrador I – Sistema de Controle de Acesso de Portaria
+📁 Pasta: `projeto-integrador`
+
+Projeto acadêmico desenvolvido no curso técnico, atualmente **em andamento**.
+
+**Etapa 1 (concluída):**
+- Levantamento e especificação de requisitos  
+- Requisitos funcionais e não funcionais  
+- Documentação técnica do sistema  
+
+📄 Documentação disponível em formato DOCX.
+
+As próximas etapas incluirão **modelagem de banco de dados** e **implementação em Java com MySQL**.
+
+---
+
+## 🧠 Exercícios e Prática de Lógica
+
+Durante o curso, desenvolvi exercícios obrigatórios focados em lógica de programação, incluindo:
+
+- **Cardápio Inteligente**
+  - Uso de estruturas condicionais (`se`, `senão se`)
+  - Sistema de recomendação de pratos baseado no perfil do cliente
+
+- **Sistema de Desconto para Loja**
+  - Cálculo de porcentagem
+  - Estruturas de repetição (`para`)
+  - Vetores
+  - Relatório simples de vendas
+
+Esses exercícios foram **exigidos pelo curso** e fazem parte da minha formação prática.
+
+---
+
+## 🚀 Objetivo
+Consolidar minha base em desenvolvimento de sistemas, evoluir para **Java e banco de dados**, e construir um portfólio sólido que represente meu aprendizado e crescimento profissional na área de tecnologia.
+
+---
+
+📌 *Este portfólio será atualizado continuamente conforme o avanço do curso.*
+
