@@ -18,7 +18,8 @@ Este repositório tem como objetivo apresentar minha **evolução acadêmica**, 
 - **Portugol Studio** – lógica de programação e algoritmos  
 - **PDF / Documentação técnica**  
 - **Java** *(próxima unidade curricular)*  
-- **MySQL (Workbench)** *(próximas etapas do curso)*  
+- **Banco de Dados (MySQL/ Workbench)** – certificação em andamento, com previsão de conclusão no meio do ano
+  
 
 ---
 
