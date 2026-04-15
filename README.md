@@ -17,7 +17,7 @@ Este repositório tem como objetivo apresentar minha **evolução acadêmica**, 
 ## 📚 Formação
 - **Curso:** Técnico em Desenvolvimento de Sistemas  
 - **Instituição:** SENAC  
-- **Duração atual:** 2 meses (em andamento)
+- **Duração atual:** 4 meses (em andamento)
 - **Curso:** Maratona CiberEducação Cisco Brasil – Trilha 1
 - **Instituição:** Cisco Networking Academy
 - **Data de Início:** Abril de 2026
