@@ -1,80 +1,55 @@
 # Portfólio – Técnico em Desenvolvimento de Sistemas (SENAC)
 
 ## 👤 Sobre mim
-Profissional em formação na área de Tecnologia da Informação, selecionado para a Maratona CiberEducação Cisco Brasil, com foco em Suporte Técnico, Desenvolvimento de Sistemas e Redes.
 
-Atualmente cursando Técnico em Desenvolvimento de Sistemas pelo Senac, adquirindo conhecimentos em lógica de programação (Java), desenvolvimento de sistemas e banco de dados (MySQL).
+Profissional em formação na área de Tecnologia da Informação, com foco em Suporte Técnico, Desenvolvimento de Sistemas, Redes e Cibersegurança.
 
-Complemento minha formação na Cisco Networking Academy (140h), com foco em Fundamentos de Redes e Cibersegurança, desenvolvendo habilidades práticas em configuração de redes e diagnóstico de problemas através do Cisco Packet Tracer.
+Atualmente cursando **Técnico em Desenvolvimento de Sistemas pelo Senac**, desenvolvendo competências em lógica de programação (Java), Programação Orientada a Objetos (POO) e Banco de Dados (MySQL).
 
-Possuo experiência profissional na área de segurança patrimonial em ambiente hospitalar, atuando com responsabilidade, disciplina e cumprimento rigoroso de protocolos — competências essenciais para a atuação em ambientes críticos e organizados na área de tecnologia.
+Possuo formação complementar pela **Cisco Networking Academy**, onde concluí a trilha de **Fundamentos de Redes** e estou finalizando a de **Cibersegurança**, adquirindo habilidades práticas em configuração de redes, diagnósticos e segurança no Cisco Packet Tracer. Em breve, iniciarei a formação em **Cibersegurança pela Kodie Academy**.
 
-Busco oportunidade como Suporte Técnico ou Help Desk, com o objetivo de aplicar meus conhecimentos de infraestrutura e segurança, adquirindo experiência prática para evoluir profissionalmente no ecossistema de TI.
-Este repositório tem como objetivo apresentar minha **evolução acadêmica**, exercícios práticos e projetos desenvolvidos ao longo do curso.
+Possuo experiência profissional na área de segurança patrimonial em ambiente hospitalar, atuando com responsabilidade, disciplina e cumprimento rigoroso de protocolos — competências essenciais para ambientes críticos de tecnologia.
+
+Busco oportunidade como **Suporte Técnico, Help Desk ou Estagiário de TI**, com o objetivo de aplicar meus conhecimentos de infraestrutura e segurança, evoluindo continuamente no ecossistema de TI.
 
 ---
 
-## 📚 Formação
-- **Curso:** Técnico em Desenvolvimento de Sistemas  
-- **Instituição:** SENAC  
-- **Duração atual:** 4 meses (em andamento)
-- **Curso:** Maratona CiberEducação Cisco Brasil – Trilha 1
-- **Instituição:** Cisco Networking Academy
-- **Data de Início:** Abril de 2026
-- **Previsão de Término:** Julho de 2026
-- **Descrição:** Formação intensiva focada em Networking Essentials e Cybersecurity Essentials. Estudo prático de arquitetura de redes, segurança de endpoints, gestão de ameaças e simulação de infraestruturas via Cisco Packet Tracer.
+## 📚 Formação & Certificações
+
+* **Técnico em Desenvolvimento de Sistemas** — SENAC *(Em andamento)*
+* **Fundamentos de Redes (Networking Essentials)** — Cisco Networking Academy *(Concluído)*
+* **Cibersegurança (Cybersecurity Essentials)** — Cisco Networking Academy *(Em fase final)*
+* **Cibersegurança** — Kodie Academy *(A iniciar)*
 
 ---
 
 ## 🛠️ Tecnologias e Ferramentas
-- **Portugol Studio** – lógica de programação e algoritmos  
-- **PDF / Documentação técnica**  
-- **Java** *(próxima unidade curricular)*  
-- **Banco de Dados (MySQL/ Workbench)** – certificação em andamento, com previsão de conclusão no meio do ano
-  
+
+* **Linguagens & Lógica:** Java (POO), Portugol Studio
+* **Banco de Dados:** MySQL / MySQL Workbench *(Concluído)*
+* **Redes & Segurança:** Cisco Packet Tracer, Fundamentos de Redes, Segurança de Endpoints
+* **Versioneamento & Ferramentas:** Git, GitHub, Documentação Técnica
 
 ---
 
-## 📌 Projetos Acadêmicos
+## 📌 Projetos e Práticas Acadêmicas
+
+### 🔹 UC06 – Programação Orientada a Objetos (Java)
+📁 Pasta: `UC6 - Programação Orientada a Objeto`
+* **01 - Sistema de Pacotes de Viagem:** Aplicação Java utilizando encapsulamento e classes para cálculo de transporte, hospedagem e vendas.
+* **02 - Gestão de Funcionários:** Implementação de herança e polimorfismo para gestão de pagamentos (assalariados e horistas).
+* **03 - Calculadora de Impostos Corporativos:** Cálculo de impostos (PIS, IPI) com classes abstratas/interfaces.
 
 ### 🔹 Projeto Integrador I – Sistema de Controle de Acesso de Portaria
 📁 Pasta: `projeto-integrador`
+* Levantamento de requisitos funcionais e não funcionais e documentação técnica para sistema de portaria.
 
-Projeto acadêmico desenvolvido no curso técnico, atualmente **em andamento**.
-
-**Etapa 1 (concluída):**
-- Levantamento e especificação de requisitos  
-- Requisitos funcionais e não funcionais  
-- Documentação técnica do sistema  
-
-📄 Documentação disponível em formato DOCX.
-
-As próximas etapas incluirão **modelagem de banco de dados** e **implementação em Java com MySQL**.
-
----
-
-## 🧠 Exercícios e Prática de Lógica
-
-Durante o curso, desenvolvi exercícios obrigatórios focados em lógica de programação, incluindo:
-
-- **Cardápio Inteligente**
-  - Uso de estruturas condicionais (`se`, `senão se`)
-  - Sistema de recomendação de pratos baseado no perfil do cliente
-
-- **Sistema de Desconto para Loja**
-  - Cálculo de porcentagem
-  - Estruturas de repetição (`para`)
-  - Vetores
-  - Relatório simples de vendas
-
-Esses exercícios foram **exigidos pelo curso** e fazem parte da minha formação prática.
+### 🔹 Banco de Dados & Lógica Inicial
+* **`banco-de-dados`:** Exercícios e modelagem em MySQL *(Módulo concluído)*.
+* **`exercícios-portugol`:** Exercícios práticos de lógica e algoritmos.
 
 ---
 
 ## 🚀 Objetivo
-Consolidar minha base em desenvolvimento de sistemas, evoluir para **Java e banco de dados**, e construir um portfólio sólido que represente meu aprendizado e crescimento profissional na área de tecnologia.
 
----
-
-📌 *Este portfólio será atualizado continuamente conforme o avanço do curso.*
-
+Consolidar a base em desenvolvimento Java, banco de dados e segurança da informação, construindo um portfólio prático e sólido para ingressar no mercado de Tecnologia da Informação.
